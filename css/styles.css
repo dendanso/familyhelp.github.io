@@ -1,0 +1,148 @@
+html,
+
+*{
+	
+	font-family: 'Raleway', sans-serif;
+	
+	
+}
+
+body{
+	background:#f2f2f2;
+	color:#9b9b9b;
+	padding:0px;
+	margin:0px;
+	line-height:1.4;
+	font-size:18px;
+}
+
+.container{
+	margin:0px auto;
+	width:80%;
+	transform-origin:left top;
+	transform:skewY(4deg);
+	overflow:hidden;
+}
+
+header{
+	transform-origin:left top;
+	transform:skewY(-4deg);
+	overflow:hidden;
+}
+
+.banner{
+	background:url(../images/grass.jpg)no-repeat;
+	height:700px;
+	background-size:cover;
+	background-position:center;
+	background-attachment:fixed;
+	position:relative:
+}
+
+.logo1{
+	background:url(../images/logo_2w.png)no-repeat;
+	width:800px;
+	height:200px;
+	position:absolute;
+	transform-origin:left top;
+	transform:skewY(5deg);
+	z-index:3;
+	background-size:100%;
+	top:40%;
+	left:30%;
+	
+}
+
+
+
+
+.slant_1{
+	transform-origin:top left;
+	transform:skewY(-4deg);
+	margin-top:100px;
+	height:650px;
+	overflow:hidden;
+	background:#fff;
+	
+}
+
+.slant_2{
+	transform-origin:top left;
+	transform:skewY(-4deg);
+	color:#fff;
+	height:850px;
+	overflow:hidden;
+	background:#b8e26a;
+	
+}
+
+p{
+	width:700px;
+}
+
+hr{
+		width:500px;
+		margin:40px;
+		margin-left:0px;
+}
+
+img{
+	float:left;
+	margin-top:40px;
+}
+
+.content{
+	position:relative;
+	left:20%;
+	
+}
+
+.content_2{
+	position:relative;
+	left:10%;
+	
+}
+
+
+
+footer{
+	height:100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
